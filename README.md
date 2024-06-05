@@ -8,7 +8,7 @@ I used the telebot library to work with the telegram bot, and the requests libra
 You write the name of the city to the bot and it gives you the weather in that city.
 
 Before using this script, do not forget to create a Database, create a table called API, and a column called tg, and in this column insert your API key received from @BotFather
-
+Well, or use a DB browser and change a ready-made database that is in the project.
 
 
 
@@ -22,3 +22,4 @@ RUS
 Пишете боту название города и он выдаёт вам погоду в этом городе.
 
 Перед тем как пользоватся этим скриптом, не забудьте создать Базу Данных, создать таблицу под именем API, и столбец по имени tg, и в этот столбец вставьте свой API ключ полученный от @BotFather
+Ну или используйте DB браузер и изменяйте уже готовую БД которая лежит в проекте.
